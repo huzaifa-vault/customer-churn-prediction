@@ -12,9 +12,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-🖥️ **GUI Application:** Desktop app using Tkinter
-🧠 **Model Type:** Random Forest Classifier
-💼 **Purpose:** Predict whether a customer will churn based on service and usage details.
+🖥️ **GUI Application:** Desktop app using Tkinter  
+🧠 **Model Type:** Random Forest Classifier  
+💼 **Purpose:** Predict whether a customer will churn based on service and usage details.  
 
 ---
 
@@ -116,6 +116,7 @@ python churn_gui.py
 
 ## 📁 File Structure
 
+```bash
 📦 AI Lab Final Project
  ┣ 📂 data
  ┃ ┗ 📄 churn.csv
@@ -129,7 +130,7 @@ python churn_gui.py
  ┣ 📄 LICENSE
  ┣ 📄 requirements.txt
  ┗ 📄 README.md
-
+```
 ---
 
 ## 📄 License
